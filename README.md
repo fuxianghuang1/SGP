@@ -1,29 +1,22 @@
-# Stochastic Gradient Perturbation: An Implicit Regularizer for Person Re-Identification - Accepted at IEEE Transactions on Circuits and Systems for Video Technology, 2023
-- The paper can be accessed at [TCSVT2023](https://ieeexplore.ieee.org/document/10081020)
+# [TCSVT2023] SGP:Stochastic Gradient Perturbation: An Implicit Regularizer for Person Re-Identification 
+
+- The [paper](https://ieeexplore.ieee.org/document/10081020) is accepted at IEEE Transactions on Circuits and Systems for Video Technology, 2023
 
 
 - The code will be available after collation. If you find this code useful in your research then please cite
 
 
-'''
+```bibtex
 @ARTICLE{10081020,
+  author={Zhou, Yuhang and Huang, Fuxiang and Chen, Weijie and Pu, Shiliang and Zhang, Lei},  
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},   
+  title={Stochastic Gradient Perturbation: An Implicit Regularizer for Person Re-Identification},   
+  year={2023},  
+  volume={33},  
+  number={10},  
+  pages={5894-5907},  
 
-  author={Zhou, Yuhang and Huang, Fuxiang and Chen, Weijie and Pu, Shiliang and Zhang, Lei},
-  
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  
-  title={Stochastic Gradient Perturbation: An Implicit Regularizer for Person Re-Identification}, 
-  
-  year={2023},
-  
-  volume={33},
-  
-  number={10},
-  
-  pages={5894-5907},
-  
-  doi={10.1109/TCSVT.2023.3261333}}
-'''
+```
 
 
 ## Abstract
