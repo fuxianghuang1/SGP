@@ -1,4 +1,4 @@
-# [TCSVT2023] SGP:Stochastic Gradient Perturbation: An Implicit Regularizer for Person Re-Identification 
+# [TCSVT2023] SGP: Stochastic Gradient Perturbation: An Implicit Regularizer for Person Re-Identification 
 
 - The [paper](https://ieeexplore.ieee.org/document/10081020) is accepted at IEEE Transactions on Circuits and Systems for Video Technology, 2023
 
